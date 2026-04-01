@@ -33,7 +33,7 @@
 ### 🎖️ Mr. Le Président
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TroTro34/Mr.-LePresident/main/data/image.png" alt="Mr. Le Président" width="600px" />
+  <img src="https://raw.githubusercontent.com/TroTro34/Mr.-LePresident/main/data/Image.png" alt="Mr. Le Président" width="600px" />
 </div>
 
 <br/>
