@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Trotro_%28cropped%29.jpg" alt="Banner" width="100%" height="200px" style="object-fit:cover; border-radius: 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Trotro_logo.png/1200px-Trotro_logo.png" alt="TroTro Banner" width="100%" height="180px" />
 
 <br/>
 
 # Hey, I'm **TroTro** 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CAAFF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93;Competitive+SSBU+Player+%F0%9F%8E%AE;Developer+%F0%9F%92%BB;Based+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CAAFF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93;Developer+%F0%9F%92%BB;Based+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
 
 </div>
 
@@ -18,6 +18,7 @@
 name       : TroTro
 location   : France 🇫🇷
 status     : High School Student 🎓
+passion    : Competitive Super Smash Bros. Ultimate 🥊
 ```
 
 ---
