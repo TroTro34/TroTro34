@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Trotro_logo.png/1200px-Trotro_logo.png" alt="TroTro Banner" width="100%" height="180px" />
+<img src="https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABe-AI_7sTu8ogQKuUnnMzhhDF5ELskNC9JHxyHCZI6PvNDJ_e4CNlwlUkzNdlZPZLgFt8Dm0T7vjCsZdD877figpQt34onexHO07.jpg?r=4de"TroTro Banner" width="100%" height="180px" />
 <br/>
 
 # Hey, I'm **TroTro** 👋
